@@ -1,5 +1,7 @@
 # 👋 Welcome to Team Ben Okri
 
+![team ben okri header image](images/ben-okri-header-image.png)
+
 **Team Ben Okri** is a collaborative group of five data scientists and machine learning enthusiasts passionate about building impactful, data-driven solutions. Inspired by the creativity of Nigerian writer **Ben Okri**, we bring together imagination, teamwork, and technical expertise to solve real-world problems.
 
 ---
@@ -34,3 +36,4 @@ Stay tuned as we release our projects, share knowledge, and collaborate with the
 
 ---
 ✨ *“Stories can conquer fear, you know. They can make the heart bigger.” – Ben Okri*  
+
